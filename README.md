@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dev Sarkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Debapriya Sarkar</h1>
+<h3 align="center">A passionate frontend developer, public speaker from India</h3>
 
-- 🔭 I’m currently working on **A virtual 3d herbal garden**
+- 🔭 I’m currently working on **A excess food management system**
 
 - 🌱 I’m currently learning **React,Pyhton**
 
